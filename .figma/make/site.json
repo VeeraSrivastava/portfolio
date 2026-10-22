@@ -1,0 +1,10 @@
+{
+  "description": "Delivers responsive, interactive design tutorials and live workshops focused on UI/UX, Figma workflows, and project builds for enhanced learning.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

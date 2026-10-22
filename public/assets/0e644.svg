@@ -1,0 +1,17 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mask group">
+<mask id="mask0_0_29" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="28" height="28">
+<g id="Group">
+<g id="Group_2">
+<path id="Vector" d="M1 11.2632H27V25.6316C27 25.9945 26.8558 26.3426 26.5992 26.5992C26.3426 26.8558 25.9945 27 25.6316 27H2.36842C2.00549 27 1.65743 26.8558 1.4008 26.5992C1.14417 26.3426 1 25.9945 1 25.6316V11.2632Z" fill="white" stroke-width="2" stroke-linejoin="round" stroke="white"/>
+<path id="Vector_2" d="M1 4.42105C1 4.05812 1.14417 3.71006 1.4008 3.45343C1.65743 3.1968 2.00549 3.05263 2.36842 3.05263H25.6316C25.9945 3.05263 26.3426 3.1968 26.5992 3.45343C26.8558 3.71006 27 4.05812 27 4.42105V11.2632H1V4.42105Z" stroke-width="2" stroke-linejoin="round" stroke="white"/>
+<path id="Vector_3" d="M8.52629 1V6.47368M19.4737 1V6.47368" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="white"/>
+<path id="Vector_4" d="M16.7367 21.5263H20.8419M7.15773 21.5263H11.263M16.7367 16.0526H20.8419M7.15773 16.0526H11.263" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="black"/>
+</g>
+</g>
+</mask>
+<g mask="url(#mask0_0_29)">
+<path id="Vector_5" d="M-2.42113 -1.73684H30.421V31.1053H-2.42113V-1.73684Z" fill="black"/>
+</g>
+</g>
+</svg>
