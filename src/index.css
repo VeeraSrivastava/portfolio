@@ -835,3 +835,15 @@ select:focus-visible {
     padding-top: 0;
   }
 }
+
+
+.project > div,
+.project-link {
+  min-width: 0;
+}
+
+.project span,
+.project a {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
