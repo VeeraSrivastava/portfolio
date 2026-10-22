@@ -129,7 +129,7 @@ function About({ contact }: { contact: () => void }) {
       />
       <div className="about-grid">
         <div className="portrait">
-          <img src="/assets/9e4df.png" alt="Veera Srivastava" />
+          <img src="/9e4df.png" alt="Veera Srivastava" />
         </div>
         <div className="body-copy">
           <p>
@@ -199,7 +199,7 @@ function UiUx({ contact }: { contact: () => void }) {
   return (
     <ServicePage
       title="UI/UX Pros"
-      image="/assets/385bb.png"
+      image="/385bb.png"
       accent="UI/UX design"
       subtitle="monthly membership"
       contact={contact}
@@ -228,7 +228,7 @@ function Devfasttt({ contact }: { contact: () => void }) {
   return (
     <ServicePage
       title="Devfasttt"
-      image="/assets/d87e6.png"
+      image="/d87e6.png"
       accent="Software"
       subtitle="development + design development agency"
       contact={contact}
@@ -259,14 +259,14 @@ const caseStudies = [
     title: "YogaJanika Case Study",
     link: "https://www.behance.net/gallery/257441903/YogaJanika-Case-Study",
     color: "#ff8800",
-    image: "/assets/eea18.png",
+    image: "/eea18.png",
     text: "YogaJanika is a yoga education website that introduces classical Hatha Yoga practices to people in Japan. The platform showcases yoga courses, introduces certified teachers, and helps visitors express interest in participating in classes.",
   },
   {
     title: "Housefly Case Study",
     link: "https://www.behance.net/gallery/257438921/Housefly-Case-Study",
     color: "#6100ae",
-    image: "/assets/b106b.png",
+    image: "/b106b.png",
     text: "Housefly is a responsive house-hunting website concept designed to help people discover homes for rent or purchase and help property owners present their properties to potential buyers and tenants.",
   },
 ]
@@ -311,7 +311,7 @@ function Cases({ contact }: { contact: () => void }) {
 const freelanceProjects = [
   {
     title: "Yogajanika - International Health & Yoga Platform",
-    image: "/assets/d4d21.png",
+    image: "/d4d21.png",
     site: "https://yogajanika.jp/",
     url: "https://yogajanika.jp/",
     role: "Principal UI/UX Designer & Lead Developer",
@@ -322,7 +322,7 @@ const freelanceProjects = [
   },
   {
     title: "SattvaDiet - Dietitian & Client Management Web & Mobile App",
-    image: "/assets/c6cc1.png",
+    image: "/c6cc1.png",
     site: "LAUNCHES 15 NOVEMBER, 2026",
     role: "Lead UI/UX Designer & Systems Architect",
     scope:
@@ -406,16 +406,16 @@ function Social() {
       <Heading title="Social Media" />
          <div className="social-links">
         <a href="https://www.instagram.com/veera.srivastava/" target="_blank">
-          <img src="/assets/96935.svg" alt="" /> Explore Instagram
+          <img src="/96935.svg" alt="" /> Explore Instagram
         </a>
         <a
           href="https://www.youtube.com/@VeeraSrivastava/featured"
           target="_blank"
         >
-          <img src="/assets/dd071.svg" alt="" /> Explore Youtube
+          <img src="/dd071.svg" alt="" /> Explore Youtube
         </a>
         <a href="https://www.linkedin.com/in/veera-srivastava/" target="_blank">
-          <img src="/assets/693aa.svg" alt="" /> Explore LinkedIn
+          <img src="/693aa.svg" alt="" /> Explore LinkedIn
         </a>
       </div>
 
@@ -468,22 +468,22 @@ function Contact() {
         <h2>Book 1:1 Appointment</h2>
         <label>
           <span>First Name</span>
-          <img className="field-icon" src="/assets/3625c.svg" alt="" />
+          <img className="field-icon" src="/3625c.svg" alt="" />
           <input aria-label="First name" name="first_name" required />
         </label>
         <label>
           <span>Last Name</span>
-          <img className="field-icon" src="/assets/3625c.svg" alt="" />
+          <img className="field-icon" src="/3625c.svg" alt="" />
           <input aria-label="Last name" name="last_name" required />
         </label>
         <label className="full">
           <span>Email</span>
-          <img className="field-icon" src="/assets/28343.svg" alt="" />
+          <img className="field-icon" src="/28343.svg" alt="" />
           <input aria-label="Email" name="email" required type="email" />
         </label>
         <label>
           <span>Category</span>
-          <img className="field-icon" src="/assets/4e39f.svg" alt="" />
+          <img className="field-icon" src="/4e39f.svg" alt="" />
           <select aria-label="Category" name="category" defaultValue="" required>
             <option disabled value="">
               Select category
@@ -495,12 +495,12 @@ function Contact() {
         </label>
         <label>
           <span>Time</span>
-          <img className="field-icon" src="/assets/2181f.svg" alt="" />
+          <img className="field-icon" src="/2181f.svg" alt="" />
           <input aria-label="Time" name="time" type="time" required />
         </label>
         <label>
           <span>Date</span>
-          <img className="field-icon" src="/assets/0e644.svg" alt="" />
+          <img className="field-icon" src="/0e644.svg" alt="" />
           <input aria-label="Date" name="date" type="date" required />
         </label>
         <div className="full">
