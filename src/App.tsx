@@ -419,6 +419,22 @@ function Social() {
         </a>
       </div>
 
+    < ul className="metrics" style={{ marginTop: "3rem" }}>
+            <li>
+              <b>🎬 190,000+ Long-Form YouTube Views</b> across technical UI/UX
+              tutorials, Figma workflows, and live project builds.
+            </li>
+            <li>
+              <b>📲 Millions of Instagram Views</b> across 500+ short-form
+              design breakdowns, wireframing guides, and carousel lessons.
+            </li>
+            <li>
+              <b>🎙️ 100+ Multi-Hour Live Design Workshops</b> facilitating
+              real-time portfolio critiques, Figma sprints &amp; student
+              mentorship.
+            </li>
+          </ul>
+
     <div className="ig-grid">
   {igPosts.map((url) => (
     <blockquote
